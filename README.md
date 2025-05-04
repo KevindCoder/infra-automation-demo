@@ -87,7 +87,7 @@ In the next step, this repo will include:
 
 **Kevin Dule**
 📍 Tirana, Albania
-🌐 [LinkedIn](https://www.linkedin.com/in/kevindule)
+🌐 [LinkedIn](https://www.linkedin.com/in/kevin-dule-3b2391174/)
 🧠 Passionate about automation, scripting, cloud, and building resilient infrastructure.
 
 ---
